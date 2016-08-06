@@ -22,11 +22,11 @@
     },
 	{
       "Key": "loginInvalid",
-      "Value": "Kredensial pengguna cacat dan gagal masuk."
+      "Value": "instruksi pengguna cacat dan gagal masuk."
     },
     {
       "Key": "farmPokestopsOutsideRadius",
-      "Value": "Kamu di luar dari radius yang kamu tentukan! Jalan ke tempat awal (sekitar {0} meter) dalam 5 detik. Apakah berkas LastPos.ini kamu benar?"
+      "Value": "Kamu di luar dari wilayah yang kamu tentukan! Jalan ke tempat awal (sekitar {0} meter) dalam 5 detik. Apakah berkas LastPos.ini kamu benar?"
     },
     {
       "Key": "farmPokestopsNoUsableFound",
@@ -222,7 +222,7 @@
     },
     {
       "Key": "ptcOffline",
-      "Value": "Server PTC mungkin sedang mengalami gangguan ATAU kredensial anda salah. Coba google"
+      "Value": "Server PTC mungkin sedang mengalami gangguan ATAU instruksi anda salah. Coba google"
     },
     {
       "Key": "tryingAgainIn",
@@ -238,7 +238,7 @@
     },
     {
       "Key": "couldntCopyToClipboard",
-      "Value": "Tidak dapat mengopi ke clipboard, lakukan secara manual"
+      "Value": "Tidak dapat menyalin ke clipboard, lakukan secara manual"
     },
     {
       "Key": "couldntCopyToClipboard2",
@@ -274,7 +274,7 @@
     },
     {
       "Key": "finishedUnpackingFiles",
-      "Value": "Selesai mengbongkar berkas-berkas..."
+      "Value": "Selesai membongkar berkas-berkas..."
     },
     {
       "Key": "finishedTransferringConfig",
